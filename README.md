@@ -9,12 +9,12 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=leeydev&theme=tokyonight&hide_border=true" alt="Leey's Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devbarcelos&theme=tokyonight&hide_border=true" alt="Didi's Activity Graph" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=leeydev&theme=tokyonight&hide_border=true&show_icons=true" height="170" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeydev&theme=tokyonight&hide_border=true&layout=compact" height="170" alt="languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=devbarcelos&theme=tokyonight&hide_border=true&show_icons=true" height="170" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbarcelos&theme=tokyonight&hide_border=true&layout=compact" height="170" alt="languages" />
 
 </div>
 
@@ -58,10 +58,10 @@ I'm a 16 year-old developer passionate about **Minecraft development** using **K
 
 ## 📫 Connect with me
 <div align="center"> 
-  <a href="https://github.com/leeydev">
+  <a href="https://github.com/devbarcelos">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://discord.com/users/leeydev">
+  <a href="https://discord.com/users/devbarcelos">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
@@ -69,5 +69,5 @@ I'm a 16 year-old developer passionate about **Minecraft development** using **K
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=leeydev&label=Profile%20Views&color=0e75b6&style=flat" alt="oNyell" />
+  <img src="https://komarev.com/ghpvc/?username=devbarcelos&label=Profile%20Views&color=0e75b6&style=flat" alt="oNyell" />
 </div>
