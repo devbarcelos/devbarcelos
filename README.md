@@ -1,73 +1,123 @@
+<!-- BANNER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/najuiamnc/najuiamnc/main/banner.jpg" width="100%" alt="banner"/>
+</div>
+
+<!-- TITLE -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Training;Fear+the+old+blood.;Seek+Paleblood+to+transcend+the+Hunt." alt="Typing SVG"/>
+</div>
+
+<br/>
+
+<!-- CONTACT -->
 <div align="center">
 
-# 👋 Hi there, I'm Diogo!
-
-### Software Developer
-**Kotlin | Java | Spring | SQL | Redis | Kubernetes | MongoDB**
-
-<br/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devbarcelos&theme=tokyonight&hide_border=true" alt="Didi's Activity Graph" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=devbarcelos&theme=tokyonight&hide_border=true&show_icons=true" height="170" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbarcelos&theme=tokyonight&hide_border=true&layout=compact" height="170" alt="languages" />
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/julia-am%C3%A2ncio)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=flat-square&logo=vercel&logoColor=c9a84c)](https://persona-rho-nine.vercel.app)
 
 </div>
 
 <br/>
 
-## 🚀 About Me
-I'm a 16 year-old developer passionate about **Minecraft development** using **Kotlin** and **Java**. My current goal is to evolve into a **Full Stack Developer**, building robust solutions with a strong focus on Backend engineering.
-
-## 🛠️ Tech Stack
-
-### Languages
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=devbarcelos&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
+
 </div>
 
-### Frameworks, Database & Infrastructure
-<div align="center">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-</div>
+---
 
-<br/>
+**Backend Developer in Training**
 
-## 🎯 Goals
-- 🧩 I develop complex **Minecraft Plugins**.
-- 🌐 Master **Full Stack** web development.
-- 🤝 Contribute to **Open Source** projects.
-- 💼 Build a solid career in **Software Development**.
-- 🚀 Master modern **DevOps & Cloud** technologies.
+> *"We are born of the blood, made men by the blood, undone by the blood."*
 
-## 📫 Connect with me
-<div align="center"> 
-  <a href="https://github.com/devbarcelos">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="https://discord.com/users/devbarcelos">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-</div>
+Currently deepening my studies in **Python**, **SQL** and **web development**, applying this knowledge to real personal projects — automation bots, portfolios, and web tools.
 
-<br/>
+I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP**, **Git** and am currently exploring **AWS & Cloud Computing**.
+
+<img align="right" width="240px" src="https://raw.githubusercontent.com/najuiamnc/najuiamnc/main/char.jpg" alt="Bloodborne Hunter"/>
+
+```
+◈  Class     →  Backend / Full-Stack Apprentice
+◈  Origin    →  Brazil 🇧🇷
+◈  Covenant  →  Open Source
+◈  Build     →  INT / DEX
+◈  Status    →  Hunter. Refuses to go hollow.
+```
+
+<br clear="right"/>
+
+---
+
+## Technologies
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=devbarcelos&label=Profile%20Views&color=0e75b6&style=flat" alt="oNyell" />
+
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=c9a84c)
+![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=c9a84c)
+![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=c9a84c)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=c9a84c)
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=c9a84c)
+![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=c9a84c)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=c9a84c)
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=c9a84c)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=c9a84c)
+![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws&logoColor=c9a84c)
+![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=c9a84c)
+
+</div>
+
+---
+
+## Statistics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=devbarcelos&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" alt="streak"/>
+
+<br/><br/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=devbarcelos&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbarcelos&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
+
+</div>
+
+---
+
+## 📜 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devbarcelos&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c)](https://github.com/najuiamnc)
+
+</div>
+
+---
+
+## 🕯️ Bonfires Lit — Education
+
+| | Course | Status |
+|:---:|:---|:---:|
+| ◈ | Systems Analysis & Development | 🔄 In Progress |
+| ◈ | AWS Tech Journey — Santander | 🔄 In Progress |
+| ◈ | Microsoft AI-900 Certification | ✅ Complete |
+| ◈ | GenAI & Data Bootcamp — DIO | ✅ Complete |
+
+---
+
+## 🗡️ Featured Projects
+
+<div align="center">
+
+[![portfolio-pessoal](https://github-readme-stats.vercel.app/api/pin/?username=devbarcelos&repo=portfolio-pessoal&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/devbarcelos/portfolio-pessoal)
+
+</div>
+
+---
+
+<div align="center">
+
+*† Seek Paleblood to transcend the Hunt †*
+
 </div>
