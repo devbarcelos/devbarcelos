@@ -89,7 +89,7 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP*
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devbarcelos&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c)](https://github.com/najuiamnc)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devbarcelos&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c)](https://github.com/devbarcelos)
 
 </div>
 
@@ -110,12 +110,14 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP*
 
 <div align="center">
 
-[![portfolio-pessoal](https://github-readme-stats.vercel.app/api/pin/?username=devbarcelos&repo=portfolio-pessoal&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/devbarcelos/portfolio-pessoal)
 
 </div>
 
 ---
 
+  ![Snake animation](https://github.com/devbarcelos/devbarcelos/blob/main/github-contribution-grid-snake.svg)
+
+ 
 <div align="center">
 
 *† Seek Paleblood to transcend the Hunt †*
